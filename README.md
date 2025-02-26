@@ -7,31 +7,20 @@
   </a>
 </div>
 
-<div style="display: inline_block">
+<div style="display: flex; align-items: center;">
   <img align="center" alt="PHP" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
-  <img align="center" alt="Laravel" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
-</div>
-
-<div style="text-align: center; margin: 20px 0;">&#124;</div>
-
-<div style="display: inline_block">
+  <img align="center" alt="Laravel" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-plain.svg" />
+  <div style="width: 20px; text-align: center;">|</div>
   <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-</div>
-
-<div style="text-align: center; margin: 20px 0;">&#124;</div>
-
-<div style="display: inline_block">
+  <div style="width: 20px; text-align: center;">|</div>
   <img align="center" alt="Java" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
   <img align="center" alt="Spring Boot" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
-</div>
-
-<div style="text-align: center; margin: 20px 0;">&#124;</div>
-
-<div style="display: inline_block">
+  <div style="width: 20px; text-align: center;">|</div>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Django" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
 </div>
+
 <br>
 
 <div> 
